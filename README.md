@@ -4,7 +4,7 @@ This repo contains the code for the paper.
 
 ## Authors
 
-- **Abdul Hannaan** 
-- **Ali Safa** 
+- **Abdul Hannaan** – abdulhannaan2002@gmail.com
+- **Ali Safa** – asafa@hbku.edu.qa
 
 
